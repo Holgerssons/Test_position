@@ -1,0 +1,18 @@
+.block__blue {
+	width: 1500px;
+	height: 400px;
+	background-color: #0000FF;	
+}
+
+.block__yellow {
+	background-color: #FFFF00;
+	width: 1500px;
+	height: 400px;
+}
+
+.block__gerb {
+	width: 400px;
+	position: relative;
+	top: -650px;
+	padding-left: 500px;	
+}
